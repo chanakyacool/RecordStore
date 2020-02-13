@@ -1,0 +1,7 @@
+/* recordstore-frontend/src/main.css */
+
+@tailwind preflight;
+
+@tailwind components;
+
+@tailwind utilities;
